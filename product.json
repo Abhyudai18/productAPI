@@ -1,0 +1,174 @@
+[
+    {
+      "id": "newid1",
+      "name": "blue shirt",
+      "company": "allen solly",
+      "price": 25000,
+      "colors": [
+        "#ff0000",
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://unsplash.com/photos/man-in-blue-dress-shirt-standing-near-brown-leaves-during-daytime-nFhRxa64fvM",
+      "description": "Introducing the epitome of effortless style and timeless sophistication: the Blue Majesty Shirt. Crafted to perfection with the finest materials, this shirt embodies versatility and refinement like no other.",
+      "category": "shirt",
+      "shipping": true
+    },
+    {
+      "id": "newid2",
+      "name": "white shirt",
+      "company": "arrow",
+      "price": 1500,
+      "colors": [
+        "#000",
+        "#22D3EF"
+      ],
+      "image": "https://unsplash.com/photos/man-in-white-dress-shirt-and-black-pants-standing-beside-red-wooden-door-Tng-hruxTCw",
+      "description": "The White Elegance Shirt: A timeless classic exuding sophistication and versatility in every thread. Elevate your wardrobe with its pristine hue and impeccable tailoring.",
+      "category": "shirt",
+      "shipping": true
+    },
+    {
+      "id": "newid3",
+      "name": "black shirt",
+      "company": "blackberry",
+      "price": 20000,
+      "colors": [
+        "#22D3EF",
+        "#CDD0D0"
+      ],
+      "image": "https://unsplash.com/photos/man-holding-his-pockets-AMp9R24pPUc",
+      "description": "The Black Noir Shirt: An epitome of sleek sophistication, exuding confidence and charisma with its timeless hue. Elevate any ensemble with its understated elegance and impeccable craftsmanship.",
+      "category": "shirt",
+      "shipping": true
+    },
+    {
+      "id": "newid4",
+      "name": "brown boots",
+      "company": "thomas crick",
+      "price": 2200,
+      "colors": [
+        "#000",
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://unsplash.com/photos/brown-leather-boots-on-white-table-qAyOt0aGsCo",
+      "description": "TEmbrace rugged elegance with our Chestnut Trail boots, blending timeless style with durability for adventures in every terrain. Step confidently in these rich brown boots, crafted with premium materials for unmatched comfort and sophistication.",
+      "category": "shoes",
+      "shipping": true
+    },
+    {
+      "id": "newid5",
+      "name": "Red Shoes",
+      "company": "Nike",
+      "price": 3000,
+      "colors": [
+        "#000",
+        "#CDD0D0"
+      ],
+      "image": "https://unsplash.com/photos/unpaired-red-nike-sneaker-164_6wVEHfI",
+      "description": "Step into bold style with our Crimson Blaze shoes, radiating confidence with every stride in their vibrant red hue. Elevate your footwear game with these eye-catching essentials, perfect for making a statement wherever you go.",
+      "category": "shoes",
+      "shipping": true
+    },
+    {
+      "id": "newid6",
+      "name": "dark brown shoes",
+      "company": "us polp association",
+      "price": 2000,
+      "colors": [
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://unsplash.com/photos/pair-of-black-converse-all-star-high-top-1BI-ar91C7U",
+      "description": "Indulge in refined elegance with our Mahogany Mirage shoes, boasting a deep, dark brown hue that exudes sophistication. Elevate your style effortlessly with these timeless essentials, perfect for any occasion.",
+      "category": "laptop",
+      "shipping": true
+    },
+    {
+      "id": "newid7",
+      "name": "black trousers",
+      "company": "blackberry",
+      "price": 2400,
+      "colors": [
+        "#CDD0D0",
+        "#000"
+      ],
+      "image": "https://unsplash.com/photos/blue-denim-jeans-on-white-textile-YeGao3uk8kI",
+      "description": "Unveil sophistication with our Midnight Eclipse trousers, crafted in classic black for timeless elegance. Elevate your wardrobe with versatile style that seamlessly transitions from formal to casual with ease.",
+      "category": "trousers",
+      "shipping": true
+    },
+    {
+      "id": "newid8",
+      "name": "white cargo pants",
+      "price": 2000,
+      "company": "h&m",
+      "colors": [
+        "#000",
+        "#CDD0D0"
+      ],
+      "image": "https://unsplash.com/photos/a-person-in-a-red-and-white-jacket-holding-a-cigarette--sUzJTe8D6M",
+      "description": "Introducing our Ivory Expedition cargo pants, blending functionality with style in crisp white. Elevate your casual ensemble with these versatile pants, perfect for urban adventures and weekend escapades.",
+      "category": "trousers",
+      "shipping": true
+    },
+    {
+      "id": "newid9",
+      "name": "beige trousers",
+      "price": 1500,
+      "company": "apple",
+      "colors": [
+        "#000000"
+      ],
+      "image": "https://unsplash.com/photos/man-wearing-brown-fitted-jeans-and-sneakers-standing-on-road-at-daytime-jC7nVH_Sw8k",
+      "description": "Discover effortless sophistication with our Sandstone Serenity trousers, crafted in a timeless beige hue. Elevate your everyday attire with these versatile essentials, perfect for any occasion.",
+      "category": "trousers",
+      "shipping": true
+    },
+    {
+      "id": "newid10",
+      "name": "white cap",
+      "company": "puma",
+      "price": 600,
+      "colors": [
+        "#ff0000",
+        "#22D3EF",
+        "#000000"
+      ],
+      "image": "https://unsplash.com/photos/white-baseball-cap-on-white-surface-t8HiP3e5abg",
+      "description": "Step into sleek style with our Snowy Summit cap, boasting a crisp white hue for a fresh and modern look. Elevate your headwear game with this versatile accessory, perfect for adding a touch of sophistication to any outfit.",
+      "category": "cap",
+      "shipping": true
+    },
+    {
+      "id": "newid11",
+      "name": "rolex premium",
+      "company": "rolex",
+      "price": 25000,
+      "colors": [
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one.",
+      "category": "watch",
+      "shipping": true
+    },
+    {
+      "id": "newid12",
+      "name": "black cap",
+      "price": 500,
+      "company": "worthy",
+      "colors": [
+        "#22D3EF",
+        "#ff0000",
+        "#000000"
+      ],
+      "image": "https://unsplash.com/photos/black-and-white-adidas-cap-Ur742-klaa4",
+      "description": "Embrace urban sophistication with our Midnight Shadow cap, featuring a sleek black design for a timeless and versatile accessory. Elevate your street style with this essential cap, perfect for completing any casual or sporty look with effortless flair.",
+      "category": "cap",
+      "shipping": true
+    }
+  ]
+  
